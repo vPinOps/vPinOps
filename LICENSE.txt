@@ -1,0 +1,25 @@
+vPinOps — Licence
+
+Copyright (c) 2026 James Brock (MDKbot). All rights reserved.
+
+vPinOps is free software in the plain sense: you may download it and use it, for
+personal or commercial purposes, on any number of machines, at no charge.
+
+You may pass it on to others only as the unmodified release archive published at
+https://github.com/vPinOps/vPinOps, and only free of charge. You may not sell it,
+charge for access to it, or include it in anything that is sold — including a
+cabinet, a computer or a collection of tables or ROMs offered for sale.
+
+The source code is not published. You may not modify, decompile, disassemble or
+reverse-engineer vPinOps, or make derivative works from it.
+
+"vPinOps", "OpsLink" and the vPinOps mark are the property of the copyright
+holder and may not be used to describe anything other than these releases.
+
+vPinOps is provided "as is", without warranty of any kind. It launches and
+configures Visual Pinball and reads and writes the files documented at
+vpinops.com; you use it at your own risk, and the author is not liable for any
+loss, including loss of tables, ROMs, settings or high scores.
+
+Visual Pinball, its plugins, and every table, ROM and backglass are the work of
+their own authors under their own terms, and are not part of vPinOps.
