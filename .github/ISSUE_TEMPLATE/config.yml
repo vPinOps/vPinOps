@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: The documentation
+    url: https://vpinops.com
+    about: Install, the library layout, screens, OpsLink, troubleshooting — read first, most answers are there.
+  - name: Troubleshooting
+    url: https://vpinops.com/reference/troubleshooting/
+    about: The failures that actually happen, most common first.
