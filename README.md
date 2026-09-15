@@ -43,10 +43,11 @@ Say so — that is the most useful thing you can do with v1. Two things make a r
 2. The run log, `last-run.log`, next to your config
    ([where that is](https://vpinops.com/reference/where-things-are/)).
 
-Post those, with what you did and what you saw: **[Discord](DISCORD_INVITE)**.
+Post those, with what you did and what you saw, as an
+**[issue](https://github.com/vPinOps/vPinOps/issues/new/choose)**. Ideas are as welcome as bugs;
+the [roadmap](https://vpinops.com/reference/roadmap/) says what is already on the list.
 
-Issues are off on this repository on purpose; the conversation is on Discord. The source is not
-published here — this repository is the home for the releases.
+The source is not published here — this repository is the home for the releases and the reports.
 
 ## Documentation
 
